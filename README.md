@@ -35,7 +35,7 @@ Vercel (deployed)
 Demo
 Live deployment on Vercel:
 
-https://task-assignment-five.vercel.app/
+https://mind-web-dashboard.vercel.app/
 
 Setup & Run Locally
 Clone the repo:
@@ -76,5 +76,5 @@ Dashboard output screenshots are stored in /src/assets.
 
 You may refer to them in documentation or presentations.
 
-By -- Harika Bondapalli
+By -- Gonnakuti Jagadeeswara Vara Prasad
 
